@@ -1,9 +1,8 @@
 version: 0.2
 
-
 env:
   variables:
-    _PROJECT_NAME: "skcc17-products"
+    _PROJECT_NAME: "skcc23-products"
 
 phases:
   install:
@@ -94,7 +93,6 @@ phases:
                       periodSeconds: 5
                       failureThreshold: 5
           EOF
-
 
 #cache:
 #  paths:
