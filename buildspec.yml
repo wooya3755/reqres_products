@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "skcc23-products"
+    _PROJECT_NAME: "skcc17-products"
 
 phases:
   install:
